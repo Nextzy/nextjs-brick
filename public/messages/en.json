@@ -1,0 +1,20 @@
+{
+  "home": {
+    "welcome": "Welcome to Next JS Boilerplate",
+    "welcome_2": "Force Update",
+    "name": "You are signed in {name}",
+    "home": "Home",
+    "profile": "Profile",
+    "login": "Sign in",
+    "logout": "Sign out"
+  },
+  "profile": {
+    "welcome": "Profile"
+  },
+  "login": {
+    "welcome": "Login",
+    "email": "Email",
+    "password": "Password",
+    "button": "Login"
+  }
+}
